@@ -1,7 +1,8 @@
 ---
-title: ModuleCodeTemplate.md
+title: Module Code Template
 author: Wootaik Lee (wootaik@gmail.com)  
 date: 2020-03-01
+permalink: /docs/ModuleCodeTemplate/
 ---
 
 # 모듈화를 위한 코드 템플릿
