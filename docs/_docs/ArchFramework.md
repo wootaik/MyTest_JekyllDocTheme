@@ -2,7 +2,7 @@
 title: SwArchitecture
 author: Wootaik Lee (wootaik@gmail.com)  
 date: 2020-03-01
-permalink: /docs/ArchFramework
+permalink: /docs/ArchFramework/
 ---
 
 

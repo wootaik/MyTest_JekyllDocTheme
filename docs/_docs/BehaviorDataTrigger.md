@@ -2,7 +2,7 @@
 title: BehavorDataTrigger
 author: Wootaik Lee (wootaik@gmail.com)  
 date: 2020-03-01
-permalink: /docs/BehaviorDataTrigger
+permalink: /docs/BehaviorDataTrigger/
 ---
 
 # 동작과 자료, 그리고 트리거
