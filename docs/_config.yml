@@ -8,7 +8,7 @@ lang: en-US
 
 baseurl: "/MyTest_JekyllDocTheme/docs" # the subpath of your site, e.g. /blog/
 url: https://wootaik.github.io/MyTest_JekyllDocTheme # the base hostname & protocol for your site
-git_address: https://github.com/wootaik/MyTest_JekyllDocTheme/docs
+git_address: https://github.com/wootaik/MyTest_JekyllDocTheme/
 git_edit_address: https://github.com/wootaik/MyTest_JekyllDocTheme/docs/_docs
 
 # theme options from https://bootswatch.com/3/
