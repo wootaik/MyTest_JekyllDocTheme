@@ -1,11 +1,12 @@
-- title: Getting Started
+- title: Prerequisite
   docs:
-  - home
-  - themes
-  - customization
+  - Prerequisite
 
-- title: Examples
+- title: Module
   docs:
-  - cheatsheet
-  - font-awesome
-  - bootstrap
+  - ModularProgramming
+  - ModuleCodeTemplate
+
+- title: Architecture
+  docs:
+  - ArchFramework
