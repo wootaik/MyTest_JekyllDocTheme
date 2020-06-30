@@ -2,6 +2,7 @@
 title: ReadMe
 author: 이우택 (wootaik@changwon.ac.kr)  
 date: 2020-04-01
+permalink: /docs/home/
 ---
 
 ## Architecture 설계와 Module 개발 방법 
