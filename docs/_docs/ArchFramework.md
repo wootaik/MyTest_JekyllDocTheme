@@ -1,6 +1,6 @@
 ---
 title: ArchitectureFramework
-author: Wootaik Lee (wootaik@gmail.com)  
+author: Wootaik Lee (wootaik@gmail.com)
 date: 2020-03-01
 permalink: /docs/ArchFramework
 ---
