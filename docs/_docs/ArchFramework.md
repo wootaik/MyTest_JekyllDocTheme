@@ -1,9 +1,10 @@
 ---
-title: ArchitectureFramework
-author: Wootaik Lee (wootaik@gmail.com)
+title: SwArchitecture
+author: Wootaik Lee (wootaik@gmail.com)  
 date: 2020-03-01
 permalink: /docs/ArchFramework
 ---
+
 
 # 소프트웨어 구조와 프래임워크
 
